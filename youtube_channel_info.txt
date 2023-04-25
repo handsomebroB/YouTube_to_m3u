@@ -5,11 +5,14 @@
 ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-Sky News | News | |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
 Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-TVBS News | Taiwan News | |
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+SKY News | English | |
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+GB News | English | |
+https://www.youtube.com/watch?v=8WX6YL9JnLw
+
+CNA | English | |
+https://www.youtube.com/watch?v=XWq5kBlakcQ
