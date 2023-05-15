@@ -2,17 +2,17 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 1
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
+Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 2
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-SKY News | English | |
+SKY News | English | | 3
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-GB News | English | |
+GB News | English | | 4
 https://www.youtube.com/watch?v=8WX6YL9JnLw
 
-CNA | English | |
+CNA | English | | 5
 https://www.youtube.com/watch?v=XWq5kBlakcQ
