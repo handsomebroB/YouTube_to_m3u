@@ -2,17 +2,20 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 1
+ABC News | World | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 101
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 2
+Al Jazeera English | World | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 102
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-SKY News | English | | 3
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-GB News | English | | 4
+GB News | World | https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/2880px-GB_News_Logo.svg.png | 103
 https://www.youtube.com/watch?v=8WX6YL9JnLw
 
-CNA | English | | 5
+CNA | World | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1920px-CNA_new_logo.svg.png | 104
 https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+台视新闻台HD | 台湾 | https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Taiwan_TV_logo_since_20080719.svg/1920px-Taiwan_TV_logo_since_20080719.svg.png | 201
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+寰宇新闻台 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png | 202
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
