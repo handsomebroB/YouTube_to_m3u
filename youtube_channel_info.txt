@@ -5,9 +5,6 @@
 ABC News | World | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 101
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-ABC News Australia | World | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/2880px-ABC_Australia_logo.svg.png | 102
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
 Al Jazeera English | World | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 103
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
