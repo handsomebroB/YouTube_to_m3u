@@ -5,25 +5,28 @@
 ABC News | World | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 101
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-Al Jazeera English | World | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 102
+ABC News Australia | World | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/2880px-ABC_Australia_logo.svg.png | 102
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+Al Jazeera English | World | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 103
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-GB News | World | https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/2880px-GB_News_Logo.svg.png | 103
+GB News | World | https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/2880px-GB_News_Logo.svg.png | 104
 https://www.youtube.com/watch?v=8WX6YL9JnLw
 
-CNA | World | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1920px-CNA_new_logo.svg.png | 104
+CNA | World | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1920px-CNA_new_logo.svg.png | 105
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-France 24 | World | https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1920px-FRANCE_24_logo.svg.png | 105
+France 24 | World | https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1920px-FRANCE_24_logo.svg.png | 106
 https://www.youtube.com/watch?v=h3MuIUNCCzI
 
-DW | World | https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2880px-Deutsche_Welle_symbol_2012.svg.png | 106
+DW | World | https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2880px-Deutsche_Welle_symbol_2012.svg.png | 107
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-Bloomberg News | World | https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2880px-New_Bloomberg_Logo.svg.png | 107
+Bloomberg News | World | https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2880px-New_Bloomberg_Logo.svg.png | 108
 https://www.youtube.com/watch?v=dp8PhLsUcFE
 
-Africanews | World | https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/2880px-Africanews_logo.svg.png | 108
+Africanews | World | https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/2880px-Africanews_logo.svg.png | 109
 https://www.youtube.com/watch?v=NQjabLGdP5g
 
 台视新闻台HD | 台湾 | https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Taiwan_TV_logo_since_20080719.svg/1920px-Taiwan_TV_logo_since_20080719.svg.png | 201
@@ -31,3 +34,24 @@ https://www.youtube.com/watch?v=xL0ch83RAK8
 
 寰宇新闻台 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png | 202
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
+
+公视电视 13 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/thumb/1/1f/Public_Television_Service_Foundation_Logo.svg/1920px-Public_Television_Service_Foundation_Logo.svg.png | 203
+https://www.youtube.com/watch?v=4Uc00FPs27M
+
+中视新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png | 204
+https://www.youtube.com/watch?v=4Uc00FPs27M
+
+中天新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/0/01/CTI_Official_Logo.png | 205
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+三立新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png | 206
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+民视新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png | 207
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+东森财经新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png | 208
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+东森综合 | 台湾 | https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/2880px-Eastern_Broadcasting_Co_Limited_logo.svg.png | 209
+https://www.youtube.com/watch?v=OQdX93g8Wos
