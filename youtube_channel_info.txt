@@ -5,9 +5,6 @@
 ABC News | World | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 101
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-euronews | World | https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2880px-Euronews_2022.svg.png | 102
-https://www.youtube.com/watch?v=pykpO5kQJ98
-
 Al Jazeera | World | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 103
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
@@ -55,6 +52,3 @@ https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 东森综合 | 台湾 | https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/2880px-Eastern_Broadcasting_Co_Limited_logo.svg.png | 209
 https://www.youtube.com/watch?v=OQdX93g8Wos
-
-华视新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png | 210
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
