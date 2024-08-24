@@ -1,47 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ABC News | World | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png | 101
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
-
-ABC 7 | World | https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WABC-TV-Logo-2021.png/350px-WABC-TV-Logo-2021.png | 102
-https://www.youtube.com/watch?v=-E0AHOOGo24
-
-FRANCE 24 | World | https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/400px-FRANCE_24_logo.svg.png | 103
-https://www.youtube.com/watch?v=tkDUSYHoKxE
-
-Al Jazeera | World | https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png | 104
-https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
-
-GB News | World | https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/2880px-GB_News_Logo.svg.png | 105
-https://www.youtube.com/watch?v=8WX6YL9JnLw
-
-CNA | World | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1920px-CNA_new_logo.svg.png | 106
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-FOX liveNOW | World | https://yt3.ggpht.com/dF1ZRcwWOxfn3AysqfW-MMIod2jPfCfgFkMLYiQWGMOiELVA7-nWN7PaXnEv1RfVxRe5S9z36ow=s88-c-k-c0x00ffffff-no-rj | 107
-https://www.youtube.com/watch?v=YDfiTGGPYCk
-
-Africanews | World | https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/2880px-Africanews_logo.svg.png | 108
-https://www.youtube.com/watch?v=NQjabLGdP5g
-
-UN | World | https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/170px-UN_emblem_blue.svg.png | 109
-https://www.youtube.com/watch?v=wfAa1GiNdgM
-
-CNBC Marathon | World | https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/400px-CNBC_2023.svg.png | 110
-https://www.youtube.com/watch?v=9NyxcX3rhQs
-
-台视新闻台HD | 台湾 | https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Taiwan_TV_logo_since_20080719.svg/1920px-Taiwan_TV_logo_since_20080719.svg.png | 201
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-中天新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/0/01/CTI_Official_Logo.png | 205
-https://www.youtube.com/watch?v=oIgbl7t0S_w
-
-三立新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png | 206
-https://www.youtube.com/watch?v=CKjSm5ZeehE
-
-民视新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png | 207
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-东森财经新闻 | 台湾 | https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png | 208
-https://www.youtube.com/watch?v=WHEPzbFA3hw
+Al Jazeera | World | https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png | 101
+https://www.youtube.com/watch?v=gCNeDWCI0vo
