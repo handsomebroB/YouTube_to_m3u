@@ -12,4 +12,4 @@
 
 
 #EXTINF:-1 group-title="World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" tvg-id="101", Al Jazeera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773977250/ei/Qmq8aee4GZ_Flu8PirDugAI/ip/172.183.132.68/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AVNa5-xzE1TS67RheB9Z9fllbkQ5xoRAmZ3LLTmUrs34DkymQx01UjLAZ3fKGZbpPUKsg1MHpuEszSdi/spc/6dlaFAi3wI_SNgPgDPSLvimBg20QGJklCIOj7pafF05KdLJUMq-K-aUYQkU/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgNv1YP2UP2lc5k7COaxxGD9Q52zVSja2lgUyViCZMEQsCIQCE8oLeoluPbIf29Dbj_leo05RBpbizyZBY1ta7KE2R3g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
